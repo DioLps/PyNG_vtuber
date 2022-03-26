@@ -4,7 +4,7 @@ Hi! I'm Dio, and I love the world of vtubers, so I spend some time build this fi
 
 ## How it works
 
-Open the PyNG_Vtuber.exe file that lives inside the dist folder of this project, click in `Get idle avatar's image` to select an image to be displayed when there's no sound capture in your microphone, then click `Get highlight avatar's image` to select the image that you want to be displayed when you said something. After that, you just need to adds the PyNG_Vtuber as a source in your stream program. 
+Open the `PyNG_Vtuber.exe` file that lives inside the dist folder of this project, click in `Get idle avatar's image` to select an image to be displayed when there's no sound capture in your microphone, then click `Get highlight avatar's image` to select the image that you want to be displayed when you said something. After that, you just need to adds the PyNG_Vtuber as a source in your stream program. 
 
 The `Reset` option will remove the current selected images.
 
